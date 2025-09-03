@@ -9,6 +9,7 @@ public class LoginPage {
 	public void loginSetMethod()
 	{
 		System.out.println("Login Page module");
+		System.out.println("Login Page module11");
 	}
 
 }
